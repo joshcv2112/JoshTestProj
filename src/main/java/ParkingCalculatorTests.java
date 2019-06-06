@@ -9,7 +9,7 @@ import java.util.ArrayList;
 import java.util.Iterator;
 
 
-public class ShortTermParkingTest {
+public class ParkingCalculatorTests {
 
     private WebDriver driver = new FirefoxDriver();
     private ParkingCalculatorPage page = new ParkingCalculatorPage(driver);
