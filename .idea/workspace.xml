@@ -164,7 +164,18 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="TestNG.ParkingCalculatorTests">
+    <configuration name="ParkingCalculatorTests" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="JoshTestProject" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ParkingCalculatorTests" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ShortTermParkingTest" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="JoshTestProject" />
       <option name="PACKAGE_NAME" value="" />
@@ -178,6 +189,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.ParkingCalculatorTests" />
         <item itemvalue="TestNG.ShortTermParkingTest" />
       </list>
     </recent_temporary>
