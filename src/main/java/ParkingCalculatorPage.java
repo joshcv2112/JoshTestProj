@@ -11,7 +11,7 @@ public class ParkingCalculatorPage {
         this.driver = driver;
     }
 
-        By lotDropdown = By.id("Lot");
+    By lotDropdown = By.id("Lot");
     By entryTimeTextField = By.id("EntryTime");
     By entryDateTextField = By.id("EntryDate");
     By entryDateAMRadioButton = By.xpath("//input[(@name='EntryTimeAMPM') and (@value = 'AM')]");
